@@ -42,8 +42,8 @@
   "resolutions": {
     "@types/react": "^17",
     "@types/react-dom": "^17",
-    "dockerode": "3.3.4",
-    "@types/dockerode": "3.3.9"
+    "dockerode": "3.3.5",
+    "@types/dockerode": "3.3.16"
   },
   "dependencies": {
     "@changesets/cli": "2.25.2"
