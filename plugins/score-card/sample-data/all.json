@@ -8,6 +8,7 @@
     "scoreLabel": "Yellow",
     "scoringReviewDate": "2022-01-01T08:00:00Z",
     "scoreSuccess": "almost-failure",
+    "scoringReviewer": "GlovoRobot",
     "areaScores": [
       {
         "title": "Documentation",
@@ -53,6 +54,7 @@
     "scorePercent": 57,
     "scoringReviewDate": "2022-01-04T08:00:00Z",
     "scoreSuccess": "partial",
+    "scoringReviewer": "GlovoRobot",
     "areaScores": [
       {
         "id": 3937,
@@ -317,6 +319,7 @@
     "scorePercent": 57,
     "scoreLabel": "C",
     "scoreSuccess": "partial",
+    "scoringReviewer": "GlovoRobot",
     "scoringReviewDate": "2022-01-04T08:00:00Z",
     "areaScores": [
       {
