@@ -18,7 +18,7 @@
       "scoreSuccess": "success",
       "scoreEntries": [
         {
-          "id": 2157,
+          "id": "gitflow",
           "title": "GitFlow",
           "scorePercent": 100,
           "scoreLabel": "A",
